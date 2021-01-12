@@ -6,9 +6,9 @@ document.addEventListener('DOMContentLoaded', function() {
         div.innerHTML = "Create by Jetsada Jinaka 620612144"
         
     document.querySelector('p').innerHTML = 62061214 + Name 
-       
-    }
     body.append(div)
+    }
+   
     document.querySelector('#input-number').onkeyup = update
     
 })
